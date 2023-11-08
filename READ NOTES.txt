@@ -1,0 +1,15 @@
+NONITO T. NOTARTE II
+BSIT-3C
+212975
+
+WEB SYSTEM AND DESIGN
+
+ACTIVITY: Media Queries and Bootstrapping
+
+My media queries is attached inside the css files in in css folder
+
+
+My Bootstrap is attached in HTML files in my folder, 60% percent of my project is made from bootstrap and a little of js.
+
+
+this project is also connected on our project in this subject which is the E-commerce
